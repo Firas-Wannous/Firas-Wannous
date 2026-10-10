@@ -8,7 +8,7 @@ LinkedIn
 
 💻 Tech Stack:
 
-PowerShell C++
+CCNA | Python 
 
 📊 GitHub Stats:
 
