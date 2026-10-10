@@ -1,16 +1,28 @@
-## Hi there 👋
+💫 About Me:
 
-<!--
-**Firas-Wannous/Firas-Wannous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently building my knowledge in Networking and IT Infrastructure<br>👯 Open to collaborating on Networking and System Administration projects<br>🤝 Looking to deepen my knowledge of System Administration<br>🌱 Currently learning System Administration<br>💬 Ask me about CCNA, Networking, and Network Fundamentals<br>⚡ Passionate about Networking and IT Infrastructure
 
-Here are some ideas to get you started:
+🌐 Socials:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn
+
+💻 Tech Stack:
+
+PowerShell C++
+
+📊 GitHub Stats:
+
+<br/>
+<br/>
+
+
+🔝 Top Contributed Repo
+
+
+
+
+---
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
