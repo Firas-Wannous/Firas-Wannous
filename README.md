@@ -4,7 +4,8 @@
 
 🌐 Socials:
 
-LinkedIn
+LinkedIn:
+https://www.linkedin.com/in/feras-wannous-715b46361/
 
 💻 Tech Stack:
 
