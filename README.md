@@ -9,7 +9,7 @@ https://www.linkedin.com/in/feras-wannous-715b46361/
 
 💻 Tech Stack:
 
-CCNA | Python 
+Networking | System Administration
 
 📊 GitHub Stats:
 
