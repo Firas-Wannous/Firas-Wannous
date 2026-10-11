@@ -50,17 +50,17 @@
 </p>
 
 ## 📂 Projects & Practice
+📂 Projects & Practice
 
-### 🌐 Networking Labs
+🌐 Comprehensive CCNA Networking Lab
 
-A collection of hands-on labs covering networking concepts studied during my CCNA learning journey.
+A comprehensive networking lab built in Cisco Packet Tracer, integrating the networking concepts covered throughout my CCNA studies into a single topology.
 
-Each lab aims to document the topology, configurations, verification steps, and lessons learned.
+The project demonstrates practical implementation of network design, configuration, connectivity, and verification across different networking concepts.
 
-➡️ [Explore Networking Labs](https://github.com/Firas-Wannous/Networking-Labs)
+The repository includes topology documentation, network addressing, VLANs, configurations, and verification results.
 
-## 📫 Connect With Me
-
+➡️ "Explore Networking Labs" (https://github.com/Firas-Wannous/Networking-Labs)
 <p>
   <a href="https://www.linkedin.com/in/feras-wannous-715b46361/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
