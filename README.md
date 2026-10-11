@@ -1,11 +1,27 @@
-💫 About Me:
+Hi, I'm Firas 👋
 
-🔭 Currently building my knowledge in Networking and IT Infrastructure<br>👯 Open to collaborating on Networking and System Administration projects<br>🤝 Looking to deepen my knowledge of System Administration<br>🌱 Currently learning System Administration<br>💬 Ask me about CCNA, Networking, and Network Fundamentals<br>⚡ Passionate about Networking and IT Infrastructure
+Networking | IT Infrastructure | Aspiring System Administrator
 
-🌐 Socials:
+- 🌐 Currently studying CCNA and building hands-on networking labs.
+- 🐧 Learning Linux System Administration.
+- 💻 Strong foundation in programming fundamentals.
+- 🧪 Practicing through hands-on labs and documenting my progress.
+- 🤝 Open to collaborating on networking and IT infrastructure projects.
 
-LinkedIn:
-https://www.linkedin.com/in/feras-wannous-715b46361/
+Areas of Interest
+
+- Computer Networking
+- Linux System Administration
+- IT Infrastructure
+- Network Troubleshooting
+
+Featured Projects
+
+- "Networking Labs" (https://github.com/Firas-Wannous/Networking-Labs) — Practical networking labs and CCNA concepts.
+
+Connect with Me
+
+- "LinkedIn" (https://www.linkedin.com/in/feras-wannous-715b46361/)
 
 💻 Tech Stack:
 
